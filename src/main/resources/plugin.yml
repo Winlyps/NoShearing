@@ -1,0 +1,5 @@
+name: NoShearing
+version: '1.0-SNAPSHOT'
+main: winlyps.noShearing.NoShearing
+api-version: '1.16'
+authors: [ Winlyps ]
